@@ -1,14 +1,13 @@
-## Patches in the folder named `git-apply` are applied using  `git` in the following order:
+## Patches in the directory named `git-apply` are applied using  `git` in the following order:
 
 - dwm-6.1-systray.diff
 - dwm-6.1-hide_vacant_tags.diff
 - dwm-6.1-save_floats.diff
 - dwm-6.1-focusmaster.diff
-- dwm-6.0-bstack.diff
 - dwm-6.1-push.diff
 - dwm-6.0-attachaside.diff
 
-## Patches in the folder named `patch-manually` are applied manually ( i.e. patched by hand )
+## Patches in the directory named `patch-manually` are applied manually ( i.e. patched by hand ):
 
 - 09-dwm-6.0-viewontag.diff
 - 10-dwm-6.1-scratchpad.diff
