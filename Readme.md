@@ -1,6 +1,5 @@
-## Patches in the directory named `git-apply` are applied using  `git` in the following order:
-=======
 #About
+
 **Patches in the folder named `git-apply` are applied using  `git` in the following order:**
 
 - dwm-6.1-systray.diff
@@ -10,8 +9,6 @@
 - dwm-6.1-push.diff
 - dwm-6.0-attachaside.diff
 
-## Patches in the directory named `patch-manually` are applied manually ( i.e. patched by hand ):
-=======
 **Patches in the folder named `patch-manually` are applied manually ( i.e. patched by hand ):**
 
 - 09-dwm-6.0-viewontag.diff
